@@ -66,3 +66,27 @@ Lista Demarcada:
 ![hello world](https://github.com/user-attachments/assets/1112eca8-576c-4e8f-8031-56645edaf42c)
 
 [Criando link de acesso ao meu Github](https://github.com/LucianoRSFernandes)
+
+### Continuação da Aula de Linguagem de Marcação Markdown
+
+Num | Nome | Nota
+---|---|---
+1 | Maria | 8,5
+2 | Mario | 7,5
+3 | Marcos | 5,5
+
+Não entendo direito para que serve o comando `documento.getElementyId()` da linguagem JavaScript. e `public class ExemploImpressao` da Linguagem Java.
+
+Estudando a linguagem Java
+```
+public class Imprimindo {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!"); // Imprime "Olá, mundo!" e pula uma linha
+        System.out.print("Esta "); // Imprime "Esta"
+        System.out.print("é "); // Imprime "é" na mesma linha
+        System.out.println("uma impressão."); // Imprime "uma impressão." e pula uma linha
+    }
+}
+```
+
+
